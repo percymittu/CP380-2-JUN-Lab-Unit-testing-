@@ -1,0 +1,7 @@
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYear\bin\Debug\IsItALeapYear.exe.config
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYear\bin\Debug\IsItALeapYear.exe
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYear\bin\Debug\IsItALeapYear.pdb
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYear\obj\Debug\IsItALeapYear.csproj.CoreCompileInputs.cache
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYear\obj\Debug\IsItALeapYear.exe
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYear\obj\Debug\IsItALeapYear.pdb
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYear\obj\Debug\IsItALeapYear.csprojAssemblyReference.cache

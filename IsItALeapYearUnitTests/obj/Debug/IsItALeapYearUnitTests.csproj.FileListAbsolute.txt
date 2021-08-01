@@ -1,0 +1,17 @@
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\bin\Debug\IsItALeapYearUnitTests.dll
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\bin\Debug\IsItALeapYearUnitTests.pdb
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\obj\Debug\IsItALeapYearUnitTests.csproj.CoreCompileInputs.cache
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\obj\Debug\IsItALeapYearUnitTests.csproj.CopyComplete
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\obj\Debug\IsItALeapYearUnitTests.dll
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\obj\Debug\IsItALeapYearUnitTests.pdb
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\bin\Debug\IsItALeapYear.exe
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\bin\Debug\IsItALeapYear.pdb
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\bin\Debug\IsItALeapYear.exe.config
+E:\Heema\2\02-Percy\IsItALeapYear\IsItALeapYearUnitTests\obj\Debug\IsItALeapYearUnitTests.csprojAssemblyReference.cache
